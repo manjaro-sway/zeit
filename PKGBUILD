@@ -2,7 +2,7 @@
 
 pkgname=zeit
 pkgver=0.0.4
-pkgrel=2
+pkgrel=3
 arch=('x86_64' 'aarch64')
 url="https://github.com/mrusme/$pkgname"
 license=('GPL')
