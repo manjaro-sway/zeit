@@ -17,4 +17,4 @@ jobs:
         id: bootstrap
         uses: Manjaro-Sway/bootstrap-package-actions@master
         with:
-          upstream: https://aur.archlinux.org/zeit-git.git
+          upstream: __UPSTREAM__
